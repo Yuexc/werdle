@@ -1,0 +1,23 @@
+﻿  Game.cpp
+H:\Dev\C++\werdle\werdle\header\Game.h(5,10): error C3646: “currentSession”: 未知重写说明符
+H:\Dev\C++\werdle\werdle\header\Game.h(5,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(6,8): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+H:\Dev\C++\werdle\werdle\header\Game.h(6,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(6,27): error C2238: 意外的标记位于“;”之前
+H:\Dev\C++\werdle\werdle\header\Game.h(10,22): error C2059: 语法错误:“&”
+H:\Dev\C++\werdle\werdle\header\Game.h(12,9): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+H:\Dev\C++\werdle\werdle\header\Game.h(12,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(12,23): error C2238: 意外的标记位于“;”之前
+H:\Dev\C++\werdle\werdle\header\Game.h(13,17): error C2061: 语法错误: 标识符“$Session”
+  main.cpp
+H:\Dev\C++\werdle\werdle\header\Game.h(5,10): error C3646: “currentSession”: 未知重写说明符
+H:\Dev\C++\werdle\werdle\header\Game.h(5,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(6,8): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+H:\Dev\C++\werdle\werdle\header\Game.h(6,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(6,27): error C2238: 意外的标记位于“;”之前
+H:\Dev\C++\werdle\werdle\header\Game.h(10,22): error C2059: 语法错误:“&”
+H:\Dev\C++\werdle\werdle\header\Game.h(12,9): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+H:\Dev\C++\werdle\werdle\header\Game.h(12,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+H:\Dev\C++\werdle\werdle\header\Game.h(12,23): error C2238: 意外的标记位于“;”之前
+H:\Dev\C++\werdle\werdle\header\Game.h(13,17): error C2061: 语法错误: 标识符“$Session”
+  正在生成代码...
